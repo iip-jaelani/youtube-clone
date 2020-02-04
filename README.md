@@ -13,6 +13,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Shared page
 ![shared](https://user-images.githubusercontent.com/36758965/73752759-14ec8c00-4794-11ea-86fa-6e4c15f2a79c.png)
 
+## List share page
+![List video share](https://user-images.githubusercontent.com/36758965/73753094-ad830c00-4794-11ea-88da-5f739449ea79.png)
+
+
 
 ## Available Scripts
 
