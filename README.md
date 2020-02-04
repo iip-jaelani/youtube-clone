@@ -3,6 +3,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Home page
 ![popup](https://user-images.githubusercontent.com/36758965/73752355-69433c00-4793-11ea-862b-c524d2af3dab.png)
 
+## Login page
+![login](https://user-images.githubusercontent.com/36758965/73752577-cb9c3c80-4793-11ea-9774-c48cec110c28.png)
+
+## SignUp page
+![signup](https://user-images.githubusercontent.com/36758965/73752700-ff776200-4793-11ea-8cb4-f1b4853f6be9.png)
+
+
+## Phared page
+![shared](https://user-images.githubusercontent.com/36758965/73752759-14ec8c00-4794-11ea-86fa-6e4c15f2a79c.png)
+
 
 ## Available Scripts
 
